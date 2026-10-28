@@ -1,6 +1,15 @@
 ﻿<div align="center">
 
+<a href="https://github.com/akashvenkey/Business-Analytics">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=451A03,92400E,D97706&height=220&section=header&text=Business%20Analytics%20Core&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Strategic%20KPI%20Modeling%2C%20Statistical%20Inference%20%26%20Decision%20Intelligence&descSize=16&descAlignY=60&descAlign=50" alt="Business Analytics Core Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/Business-Analytics](https://github.com/akashvenkey/Business-Analytics)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2FBusiness-Analytics-blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/Business-Analytics)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/Business-Analytics.git)
 
 [![Analytics](https://img.shields.io/badge/Domain-Business_Analytics-92400E?style=for-the-badge&logo=googleanalytics&logoColor=white)](https://github.com/akashvenkey/Business-Analytics)
 [![Modeling](https://img.shields.io/badge/Modeling-Quantitative_%26_Statistical-D97706?style=for-the-badge)](https://github.com/akashvenkey/Business-Analytics)
@@ -143,6 +152,15 @@ Contributions regarding innovative financial heuristics, KPI frameworks, and sup
 
 <div align="center">
 
+<a href="https://github.com/akashvenkey/Business-Analytics">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=451A03,92400E,D97706&height=100&section=footer" alt="Footer Banner" width="100%" />
+</a>
+
+
+
+### 🔗 **Project Source Link:** [https://github.com/akashvenkey/Business-Analytics](https://github.com/akashvenkey/Business-Analytics)
+
+[![Source Code](https://img.shields.io/badge/Source_Code-github.com%2Fakashvenkey%2FBusiness-Analytics-blue?style=for-the-badge&logo=github)](https://github.com/akashvenkey/Business-Analytics)
+[![Clone URL](https://img.shields.io/badge/Clone-git_clone-success?style=for-the-badge&logo=git)](https://github.com/akashvenkey/Business-Analytics.git)
 
 </div>
