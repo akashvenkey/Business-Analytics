@@ -1,7 +1,7 @@
 ﻿<div align="center">
 
 <a href="https://github.com/akashvenkey/Business-Analytics">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=451A03,92400E,D97706&height=220&section=header&text=Business%20Analytics%20Core&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Strategic%20KPI%20Modeling%2C%20Statistical%20Inference%20%26%20Decision%20Intelligence&descSize=16&descAlignY=60&descAlign=50" alt="Business Analytics Core Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:451A03,50:92400E,100:D97706&height=220&section=header&text=Business%20Analytics%20Core&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Strategic%20KPI%20Modeling%2C%20Statistical%20Inference%20and%20Decision%20Intelligence&descSize=16&descAlignY=60&descAlign=50" alt="Business Analytics Core Banner" width="100%" />
 </a>
 
 
@@ -153,7 +153,7 @@ Contributions regarding innovative financial heuristics, KPI frameworks, and sup
 <div align="center">
 
 <a href="https://github.com/akashvenkey/Business-Analytics">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=451A03,92400E,D97706&height=100&section=footer" alt="Footer Banner" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:451A03,50:92400E,100:D97706&height=100&section=footer" alt="Footer Banner" width="100%" />
 </a>
 
 
